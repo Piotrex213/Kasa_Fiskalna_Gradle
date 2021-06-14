@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.obsluga.ProduktTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-06-14T12:10:16" hostname="DESKTOP-LBS5585" time="0.002">
+  <properties/>
+  <testcase name="getCena_powinno_zwraca_cene()" classname="org.obsluga.ProduktTest" time="0.001"/>
+  <testcase name="getId_powinno_zwracac_id()" classname="org.obsluga.ProduktTest" time="0.001"/>
+  <testcase name="getNazwa_powinno_zwracac_nazwe()" classname="org.obsluga.ProduktTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.obsluga.KoszykTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-06-14T12:10:16" hostname="DESKTOP-LBS5585" time="0.005">
+  <properties/>
+  <testcase name="dodajPrzedmiotDoKoszyka_powinno_spelniac_swoja_role()" classname="org.obsluga.KoszykTest" time="0.0"/>
+  <testcase name="getNazwaPrzedmiotu_zwraca_falsz_przy_niepoprawnych_danych()" classname="org.obsluga.KoszykTest" time="0.0"/>
+  <testcase name="getWartoscPrzedmiotu_zwraca_falsz_przy_niepoprawnych_danych()" classname="org.obsluga.KoszykTest" time="0.0"/>
+  <testcase name="getWartoscPrzedmiotu_poprawnie_zwraca_wartosci()" classname="org.obsluga.KoszykTest" time="0.0"/>
+  <testcase name="otwarcieProduktowZPliku_sprawdza_czy_produkty_zostaly_zapisane_do_arraylist()" classname="org.obsluga.KoszykTest" time="0.001"/>
+  <testcase name="getDlugoscKoszyka_zwraca_true_gdy_dlugosc_wieksza_niz_0()" classname="org.obsluga.KoszykTest" time="0.001"/>
+  <testcase name="zapisProduktowDoPliku_sprawdza_czy_plik_istnieje()" classname="org.obsluga.KoszykTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

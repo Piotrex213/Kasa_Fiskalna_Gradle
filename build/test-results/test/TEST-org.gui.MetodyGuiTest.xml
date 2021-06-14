@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gui.MetodyGuiTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-06-14T12:10:16" hostname="DESKTOP-LBS5585" time="0.029">
+  <properties/>
+  <testcase name="sprWartDoBazy_nieprawidlowe_dane_powinno_zwracac_true()" classname="org.gui.MetodyGuiTest" time="0.002"/>
+  <testcase name="sprWart_prawidlowe_dane_powinno_zwracac_false()" classname="org.gui.MetodyGuiTest" time="0.001"/>
+  <testcase name="sprWartDoBazy_prawidlowe_dane_powinno_zwracac_false()" classname="org.gui.MetodyGuiTest" time="0.0"/>
+  <testcase name="czyInt_powinno_zwracac_true()" classname="org.gui.MetodyGuiTest" time="0.0"/>
+  <testcase name="wyliczKoszyk_ma_zsumowac_wszystkie_wartosci_przedmiotow_w_koszyku()" classname="org.gui.MetodyGuiTest" time="0.001"/>
+  <testcase name="jezeliKoszykZawieraId_ma_wydrukowac_odpowiedni_komunikat_ZAWIERA()" classname="org.gui.MetodyGuiTest" time="0.005"/>
+  <testcase name="czyKoszykMaToId_ma_zwracac_false()" classname="org.gui.MetodyGuiTest" time="0.001"/>
+  <testcase name="druk_powinno_zwracac_odpowiedni_string()" classname="org.gui.MetodyGuiTest" time="0.015"/>
+  <testcase name="jezeliKoszykZawieraId_ma_wydrukowac_odpowiedni_komunikat_NIEZAWIERA()" classname="org.gui.MetodyGuiTest" time="0.001"/>
+  <testcase name="doDwochMiejscPoPrzecinku_czy_dobrze_zaokragla()" classname="org.gui.MetodyGuiTest" time="0.0"/>
+  <testcase name="sprWart_nieprawidlowe_dane_powinno_zwracac_true()" classname="org.gui.MetodyGuiTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
